@@ -16,6 +16,7 @@ A Telegram bot built with Python that allows users to practice multiple-choice q
 
 ![Start & Quiz](demo/i1.png)
 ![Game Over](demo/i2.png)
+![Run](demo/v1.mp4)
 
 
 ---
