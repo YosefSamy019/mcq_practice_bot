@@ -1,0 +1,332 @@
+[
+  {
+    "q_id": 1,
+    "question": "What is the capital of France?",
+    "answers": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Rome"
+    ],
+    "right_answer_index": 2
+  },
+  {
+    "q_id": 2,
+    "question": "Which language is used for web development?",
+    "answers": [
+      "Python",
+      "HTML",
+      "C++",
+      "Java"
+    ],
+    "right_answer_index": 1
+  },
+  {
+    "q_id": 3,
+    "question": "2 + 2 = ?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "right_answer_index": 1
+  },
+  {
+    "q_id": 4,
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [
+      "Earth",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "right_answer_index": 2
+  },
+  {
+    "q_id": 5,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answers": [
+      "Shakespeare",
+      "Charles Dickens",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "right_answer_index": 0
+  },
+  {
+    "q_id": 6,
+    "question": "What is the boiling point of water?",
+    "answers": [
+      "90°C",
+      "80°C",
+      "100°C",
+      "70°C"
+    ],
+    "right_answer_index": 2
+  },
+  {
+    "q_id": 7,
+    "question": "Which data structure uses FIFO?",
+    "answers": [
+      "Stack",
+      "Queue",
+      "List",
+      "Tree"
+    ],
+    "right_answer_index": 1
+  },
+  {
+    "q_id": 8,
+    "question": "Which element has the symbol 'O'?",
+    "answers": [
+      "Oxygen",
+      "Gold",
+      "Iron",
+      "Silver"
+    ],
+    "right_answer_index": 0
+  },
+  {
+    "q_id": 9,
+    "question": "Which company created the iPhone?",
+    "answers": [
+      "Microsoft",
+      "Samsung",
+      "Google",
+      "Apple"
+    ],
+    "right_answer_index": 3
+  },
+  {
+    "q_id": 10,
+    "question": "What color is chlorophyll?",
+    "answers": [
+      "Red",
+      "Green",
+      "Blue",
+      "Yellow"
+    ],
+    "right_answer_index": 1
+  },
+  {
+    "q_id": 11,
+    "question": "What does HTTP stand for?",
+    "answers": [
+      "Hyper Text Transfer Protocol",
+      "Hyper Transfer Text Protocol",
+      "High Transfer Text Protocol",
+      "None"
+    ],
+    "right_answer_index": 0
+  },
+  {
+    "q_id": 12,
+    "question": "What is 7 * 6?",
+    "answers": [
+      "42",
+      "36",
+      "48",
+      "40"
+    ],
+    "right_answer_index": 0
+  },
+  {
+    "q_id": 13,
+    "question": "Which gas do plants absorb?",
+    "answers": [
+      "Oxygen",
+      "Hydrogen",
+      "Carbon Dioxide",
+      "Nitrogen"
+    ],
+    "right_answer_index": 2
+  },
+  {
+    "q_id": 14,
+    "question": "What is the square root of 81?",
+    "answers": [
+      "8",
+      "9",
+      "10",
+      "7"
+    ],
+    "right_answer_index": 1
+  },
+  {
+    "q_id": 15,
+    "question": "Which country is known for the Great Wall?",
+    "answers": [
+      "India",
+      "Japan",
+      "China",
+      "Russia"
+    ],
+    "right_answer_index": 2
+  },
+  {
+    "q_id": 16,
+    "question": "Which programming language is used in Android Studio by default?",
+    "answers": [
+      "Python",
+      "Java",
+      "Swift",
+      "C#"
+    ],
+    "right_answer_index": 1
+  },
+  {
+    "q_id": 17,
+    "question": "Who painted the Mona Lisa?",
+    "answers": [
+      "Van Gogh",
+      "Picasso",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "right_answer_index": 2
+  },
+  {
+    "q_id": 18,
+    "question": "Which continent is the Sahara Desert in?",
+    "answers": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "Australia"
+    ],
+    "right_answer_index": 1
+  },
+  {
+    "q_id": 19,
+    "question": "Which is the smallest prime number?",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "right_answer_index": 2
+  },
+  {
+    "q_id": 20,
+    "question": "Who discovered gravity?",
+    "answers": [
+      "Newton",
+      "Einstein",
+      "Galileo",
+      "Tesla"
+    ],
+    "right_answer_index": 0
+  },
+  {
+    "q_id": 21,
+    "question": "How many legs does a spider have?",
+    "answers": [
+      "6",
+      "8",
+      "10",
+      "4"
+    ],
+    "right_answer_index": 1
+  },
+  {
+    "q_id": 22,
+    "question": "Which of these is a search engine?",
+    "answers": [
+      "Facebook",
+      "Google",
+      "Instagram",
+      "Spotify"
+    ],
+    "right_answer_index": 1
+  },
+  {
+    "q_id": 23,
+    "question": "Which planet has the most moons?",
+    "answers": [
+      "Earth",
+      "Jupiter",
+      "Mars",
+      "Venus"
+    ],
+    "right_answer_index": 1
+  },
+  {
+    "q_id": 24,
+    "question": "Who is the father of computers?",
+    "answers": [
+      "Charles Babbage",
+      "Bill Gates",
+      "Alan Turing",
+      "Steve Jobs"
+    ],
+    "right_answer_index": 0
+  },
+  {
+    "q_id": 25,
+    "question": "What is the main language spoken in Brazil?",
+    "answers": [
+      "Spanish",
+      "Portuguese",
+      "French",
+      "English"
+    ],
+    "right_answer_index": 1
+  },
+  {
+    "q_id": 26,
+    "question": "Which of the following is not an operating system?",
+    "answers": [
+      "Linux",
+      "MacOS",
+      "Photoshop",
+      "Windows"
+    ],
+    "right_answer_index": 2
+  },
+  {
+    "q_id": 27,
+    "question": "In Python, which symbol is used for comments?",
+    "answers": [
+      "//",
+      "/*",
+      "#",
+      "<!--"
+    ],
+    "right_answer_index": 2
+  },
+  {
+    "q_id": 28,
+    "question": "What does CPU stand for?",
+    "answers": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Control Processing Unit",
+      "Compute Processing Unit"
+    ],
+    "right_answer_index": 1
+  },
+  {
+    "q_id": 29,
+    "question": "Which of these is a mammal?",
+    "answers": [
+      "Crocodile",
+      "Shark",
+      "Whale",
+      "Frog"
+    ],
+    "right_answer_index": 2
+  },
+  {
+    "q_id": 30,
+    "question": "Which language is mostly spoken worldwide?",
+    "answers": [
+      "English",
+      "Mandarin",
+      "Arabic",
+      "Spanish"
+    ],
+    "right_answer_index": 1
+  }
+]
